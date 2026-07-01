@@ -16,16 +16,16 @@ TikTok
         <p className='text-white text-2xl uppercase'>Our Shop</p>
         <ul className='space-y-3 mt-3'>
             <li>
-                  <Link className="nav-link  hover:text-white text-white/70 text-xl " to="/features">Features</Link>
+                  <Link className="nav-link  hover:text-white text-white/70 text-xl " to="/features">Thesus</Link>
             </li>
             <li>
-                  <Link className="nav-link hover:text-white text-white/70 text-xl" to="/skills">Skills</Link>
+                  <Link className="nav-link hover:text-white text-white/70 text-xl" to="/weekendboots">Weekend Boots</Link>
             </li>
             <li>
-                  <Link className="nav-link  hover:text-white text-white/70 text-xl" to="/howitworks">How it works</Link>
+                  <Link className="nav-link  hover:text-white text-white/70 text-xl" to="/rainboots">Rain Boots</Link>
             </li>
             <li>
-                  <Link className="nav-link hover:text-white text-white/70 text-xl" to="/usecases">Usecases</Link>
+                  <Link className="nav-link hover:text-white text-white/70 text-xl" to="/usecases">Modern Winter Boots</Link>
             </li>
             <li>
                   <Link className="nav-link hover:text-white text-white/70 text-xl" to="/pricing">Pricing</Link>
@@ -36,13 +36,10 @@ TikTok
         <p className='text-white text-2xl uppercase'>Help</p>
         <ul className='space-y-3 mt-3'>
             <li>
-                  <Link className="nav-link hover:text-white text-white/70 text-xl" to="/requestaccess">Request Access</Link>
+                  <Link className="nav-link hover:text-white text-white/70 text-xl" to="/login">LogIn</Link>
             </li>
             <li>
-                  <Link className="nav-link hover:text-white text-white/70 text-xl" to="/faq">FAQ</Link>
-            </li>
-             <li>
-                  <Link className="nav-link hover:text-white text-white/70 text-xl" to="/signin">Sign In</Link>
+                  <Link className="nav-link hover:text-white text-white/70 text-xl" to="/contactus">Contact Us</Link>
             </li>
             </ul>
     </div3>
@@ -50,13 +47,10 @@ TikTok
         <p className='text-white text-2xl uppercase'>About Us</p>
        <ul className='space-y-3 mt-3'>
             <li>
-                  <Link className="nav-link hover:text-white text-white/70 text-xl" to="/terms">Terms and Conditions</Link>
+                  <Link className="nav-link hover:text-white text-white/70 text-xl" to="/aboutus">Values</Link>
             </li>
             <li>
-                  <Link className="nav-link hover:text-white text-white/70 text-xl" to="/privacy">Privacy</Link>
-            </li>
-             <li>
-                  <Link className="nav-link hover:text-white text-white/70 text-xl" to="/">Eigensol</Link>
+                  <Link className="nav-link hover:text-white text-white/70 text-xl" to="/contactus">Conatact Us</Link>
             </li>
             </ul>
     </div4>

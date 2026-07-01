@@ -1,4 +1,4 @@
-import { CarTaxiFront, LogInIcon, Menu, Search, ShoppingCart, UserRound, X } from 'lucide-react';
+import { Menu, Search, ShoppingCart, UserRound, X } from 'lucide-react';
 import { button } from 'motion/react-client';
 import React from 'react'
 import { useState } from 'react';
